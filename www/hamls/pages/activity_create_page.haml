@@ -9,6 +9,8 @@
     %span.input-group-addon Price :
     %input.form-control( type="number" ng-model='goods_price' placeholder="Next" )
   %br
+  .btn.btn-info.btn-lg( ng-tap='save_goods_detail()' ) Submit&rarr;
+  %br
   %br
   %p
     %h1.text-warning {{goods_name+' $'+goods_price}}
