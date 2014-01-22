@@ -4,12 +4,14 @@
     <list default="true" id="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" name="Default" comment="" />
     <ignored path="step_angular.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/activity_list_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390361692252" ignored="false" />
-    <file path="/ActivityListController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390362761973" ignored="false" />
+    <file path="/activity_list_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390373657212" ignored="false" />
+    <file path="/ActivityListController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390374125647" ignored="false" />
     <file path="/activity_create_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390369798204" ignored="false" />
     <file path="/ActivityCreateController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390359979230" ignored="false" />
     <file path="$PROJECT_DIR$/../demo_angular/www/js/controller/ActivityListController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390360508799" ignored="false" />
     <file path="$PROJECT_DIR$/../demo_angular/www/hamls/pages/activity_create_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390368899078" ignored="false" />
+    <file path="$PROJECT_DIR$/../demo_angular/www/js/application.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390373629818" ignored="false" />
+    <file path="/application.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390373610795" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +34,16 @@
       <file leaf-file-name="activity_list_page.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="77" selection-start="242" selection-end="242" vertical-scroll-proportion="0.15873016">
+            <state line="8" column="12" selection-start="276" selection-end="276" vertical-scroll-proportion="0.22018349">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="33" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -41,7 +52,7 @@
       <file leaf-file-name="ActivityListController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="3" column="73" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,8 +100,8 @@
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
-        <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
         <option value="$PROJECT_DIR$/www/js/localstorage_io.js" />
+        <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
         <option value="$PROJECT_DIR$/www/js/application.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
       </list>
@@ -531,9 +542,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/application.js">
+    <entry file="file://$PROJECT_DIR$/www/js/localstorage_io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.71001756">
+        <state line="15" column="74" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="73" selection-start="310" selection-end="310" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -552,23 +570,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/localstorage_io.js">
+    <entry file="file://$PROJECT_DIR$/www/js/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="74" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+        <state line="29" column="33" selection-start="967" selection-end="967" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="77" selection-start="242" selection-end="242" vertical-scroll-proportion="0.15873016">
+        <state line="8" column="12" selection-start="276" selection-end="276" vertical-scroll-proportion="0.22018349">
           <folding />
         </state>
       </provider>
