@@ -4,7 +4,7 @@
   %li.list-group-item.active
     Goods
     .badge &nbspPrice&nbsp
-  %li.list-group-item
+  %li.list-group-item( ng-repeat='device in devices' )
     {{device.name}}
     .badge {{device.price}}
 
