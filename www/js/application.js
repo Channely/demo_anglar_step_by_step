@@ -34,6 +34,7 @@ myModule.directive('ngTap', function() {
 var native_access;
 $(document).ready(function () {
 
+    //在进入应用时需要执行的功能
     init_localstorage_goods_detail()
 
     native_access = new NativeAccess();
