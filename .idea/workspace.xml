@@ -38,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityListController.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ActivityListController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="68" selection-start="301" selection-end="301" vertical-scroll-proportion="0.07785467">
+            <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="localstorage_io.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="localstorage_io.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/localstorage_io.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="52" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+            <state line="15" column="74" selection-start="689" selection-end="689" vertical-scroll-proportion="0.38071066">
               <folding />
             </state>
           </provider>
@@ -88,10 +88,11 @@
         <option value="$PROJECT_DIR$/www/hamls/index.haml" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
-        <option value="$PROJECT_DIR$/www/js/localstorage_io.js" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
+        <option value="$PROJECT_DIR$/www/js/localstorage_io.js" />
+        <option value="$PROJECT_DIR$/www/js/application.js" />
       </list>
     </option>
   </component>
@@ -537,9 +538,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/localstorage_io.js">
+    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="52" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="4" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.71001756">
           <folding />
         </state>
       </provider>
@@ -558,9 +566,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
+    <entry file="file://$PROJECT_DIR$/www/js/localstorage_io.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="68" selection-start="301" selection-end="301" vertical-scroll-proportion="0.07785467">
+        <state line="15" column="74" selection-start="689" selection-end="689" vertical-scroll-proportion="0.38071066">
           <folding />
         </state>
       </provider>
