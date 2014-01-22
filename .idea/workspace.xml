@@ -9,6 +9,7 @@
     <file path="/activity_create_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390359517810" ignored="false" />
     <file path="/ActivityCreateController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390359979230" ignored="false" />
     <file path="$PROJECT_DIR$/../demo_angular/www/js/controller/ActivityListController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390360508799" ignored="false" />
+    <file path="$PROJECT_DIR$/../demo_angular/www/hamls/pages/activity_create_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390368899078" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +32,28 @@
       <file leaf-file-name="activity_list_page.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="37" selection-start="202" selection-end="202" vertical-scroll-proportion="-3.75">
-              <folding />
+            <state line="6" column="77" selection-start="219" selection-end="219" vertical-scroll-proportion="-3.75">
+              <folding>
+                <marker date="1390368757549" expanded="true" signature="167:268" placeholder="%li.list-group-item( ng-repeat='device in devices' ng-tap='go_next_page()' )" />
+                <marker date="1390368757549" expanded="true" signature="244:268" placeholder=".badge ${{device.price}}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityListController.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ActivityListController.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="137" selection-start="190" selection-end="190" vertical-scroll-proportion="0.051903114">
+            <state line="7" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_create_page.haml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="activity_create_page.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="-0.625">
+            <state line="5" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="0.13227513">
               <folding />
             </state>
           </provider>
@@ -78,9 +82,9 @@
         <option value="$PROJECT_DIR$/www/hamls/index.haml" />
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
-        <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
-        <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
+        <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
+        <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
       </list>
     </option>
   </component>
@@ -395,7 +399,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1372" height="745" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -526,23 +530,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="13" selection-start="85" selection-end="85" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="37" selection-start="202" selection-end="202" vertical-scroll-proportion="-3.75">
-          <folding />
+        <state line="6" column="77" selection-start="219" selection-end="219" vertical-scroll-proportion="-3.75">
+          <folding>
+            <marker date="1390368757549" expanded="true" signature="167:268" placeholder="%li.list-group-item( ng-repeat='device in devices' ng-tap='go_next_page()' )" />
+            <marker date="1390368757549" expanded="true" signature="244:268" placeholder=".badge ${{device.price}}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="137" selection-start="190" selection-end="190" vertical-scroll-proportion="0.051903114">
+        <state line="7" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="36" selection-start="176" selection-end="176" vertical-scroll-proportion="0.13227513">
           <folding />
         </state>
       </provider>
