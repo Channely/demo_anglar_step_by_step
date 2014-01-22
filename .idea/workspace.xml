@@ -37,10 +37,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/hamls/index.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="66" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.6296296">
+            <state line="26" column="70" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-14.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="57" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.39449543">
               <folding />
             </state>
           </provider>
@@ -84,12 +93,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/www/js/routes.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
         <option value="$PROJECT_DIR$/www/hamls/index.haml" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -208,7 +217,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -493,13 +502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="49" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.6878307">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/routes.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="31" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
@@ -551,7 +553,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/hamls/index.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="66" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.6296296">
+        <state line="26" column="70" selection-start="1041" selection-end="1041" vertical-scroll-proportion="-14.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="57" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.39449543">
           <folding />
         </state>
       </provider>
