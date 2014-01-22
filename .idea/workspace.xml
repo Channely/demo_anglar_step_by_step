@@ -38,19 +38,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivityListController.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="ActivityListController.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
+            <state line="3" column="68" selection-start="301" selection-end="301" vertical-scroll-proportion="0.07785467">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_create_page.haml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="activity_create_page.haml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="39" selection-start="524" selection-end="524" vertical-scroll-proportion="0.3968254">
+            <state line="15" column="40" selection-start="524" selection-end="524" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
@@ -87,11 +87,11 @@
         <option value="$PROJECT_DIR$/www/js/routes.js" />
         <option value="$PROJECT_DIR$/www/hamls/index.haml" />
         <option value="$PROJECT_DIR$/www/index.html" />
-        <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
         <option value="$PROJECT_DIR$/www/js/localstorage_io.js" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
+        <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
       </list>
     </option>
   </component>
@@ -544,13 +544,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="5" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityCreateController.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="5" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0">
@@ -560,7 +553,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="39" selection-start="524" selection-end="524" vertical-scroll-proportion="0.3968254">
+        <state line="15" column="40" selection-start="524" selection-end="524" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityListController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="68" selection-start="301" selection-end="301" vertical-scroll-proportion="0.07785467">
           <folding />
         </state>
       </provider>
