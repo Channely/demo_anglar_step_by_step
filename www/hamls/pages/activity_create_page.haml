@@ -3,9 +3,12 @@
 .text-center
   .input-group
     %span.input-group-addon Name:
-    %input.form-control( type="text" placeholder="Here" )
+    %input.form-control( type="text" ng-model='goods_name' placeholder="Here" )
   %br
   .input-group
     %span.input-group-addon Price :
-    %input.form-control( type="number" placeholder="Next" )
+    %input.form-control( type="number" ng-model='goods_price' placeholder="Next" )
   %br
+  %br
+  %p
+    %h1.text-warning {{goods_name+' $'+goods_price}}
