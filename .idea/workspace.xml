@@ -6,6 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/activity_list_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390358821113" ignored="false" />
     <file path="/ActivityListController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390358873691" ignored="false" />
+    <file path="/activity_create_page.haml" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390359219161" ignored="false" />
+    <file path="/ActivityCreateController.js" changelist="52353707-6a8a-466a-96ef-e4e1f6c4ae9a" time="1390359257078" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
       <file leaf-file-name="routes.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/js/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="30" selection-start="158" selection-end="158" vertical-scroll-proportion="0.07614213">
+            <state line="6" column="48" selection-start="289" selection-end="313" vertical-scroll-proportion="0.15228426">
               <folding />
             </state>
           </provider>
@@ -44,9 +46,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/routes.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
+        <option value="$PROJECT_DIR$/www/js/routes.js" />
+        <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
+        <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
       </list>
     </option>
   </component>
@@ -289,7 +294,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="0" width="1372" height="745" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -392,9 +397,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="11" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/controller/ActivityCreateController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="41" selection-end="41" vertical-scroll-proportion="0.02538071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="49" selection-start="1620" selection-end="1620" vertical-scroll-proportion="0.6878307">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/routes.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="30" selection-start="158" selection-end="158" vertical-scroll-proportion="0.07614213">
+        <state line="6" column="48" selection-start="289" selection-end="313" vertical-scroll-proportion="0.15228426">
           <folding />
         </state>
       </provider>
