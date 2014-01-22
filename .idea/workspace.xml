@@ -31,7 +31,7 @@
       <file leaf-file-name="activity_list_page.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="30" selection-start="237" selection-end="237" vertical-scroll-proportion="0.21164021">
+            <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15873016">
               <folding />
             </state>
           </provider>
@@ -79,8 +79,8 @@
         <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityCreateController.js" />
         <option value="$PROJECT_DIR$/www/hamls/pages/activity_create_page.haml" />
-        <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
         <option value="$PROJECT_DIR$/www/js/controller/ActivityListController.js" />
+        <option value="$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml" />
       </list>
     </option>
   </component>
@@ -542,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/www/hamls/pages/activity_list_page.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="237" selection-end="237" vertical-scroll-proportion="0.21164021">
+        <state line="6" column="21" selection-start="186" selection-end="186" vertical-scroll-proportion="0.15873016">
           <folding />
         </state>
       </provider>
