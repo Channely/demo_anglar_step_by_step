@@ -7,9 +7,9 @@
   %br
   .input-group
     %span.input-group-addon Price :
-    %input.form-control( type="number" ng-model='goods_price' ng-change='show_goods_sentence()' placeholder="Next" )
+    %input.form-control( type="number" ng-model='goods_price' ng-change='show_goods_sentence()' ng-disabled="!goods_name" placeholder="Next" )
   %br
-  .btn.btn-info.btn-lg( ng-tap='save_goods_detail()' ) Submit&rarr;
+  .btn.btn-info.btn-lg( ng-tap='save_goods_detail()' ng-disabled="!goods_price") Submit&rarr;
   %br
   %br
   %p
